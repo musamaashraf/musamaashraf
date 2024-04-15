@@ -8,7 +8,7 @@ I've been coding since 2016, I have 6+ years of experience in development. I hav
 
 *   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [musamaashraf@gmail.com](mailto:musamaashraf@gmail.com)
-*   🧠  I'm learning GoLang
+*   🧠  I'm learning AI/ML
 *   🤝  I'm open to collaborating on Flutter, Dart, Firebase
 
 <a href="https://www.twitter.com/Musamaashraf" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Musamaashraf?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>      <a href="https://www.github.com/musamaashraf" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/musamaashraf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
