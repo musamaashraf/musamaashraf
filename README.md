@@ -1,15 +1,15 @@
 Hi 👋 My name is Muhammad Usama Ashraf
 ======================================
 
-Software Engineer || Full Stack Mobile Application Developer || Graphic Designer || UI / UX Designer || Project Manager
------------------------------------------------------------------------------------------------------------------------
+Software Engineer || Full Stack Mobile & Web Application Developer || Graphic Designer || UI / UX Designer || Project Manager
+-------------------------------------------------------------------------------------------------------------------------------
 
-I've been coding since 2016, I have 6+ years of experience in development. I have 4+ years of experience in Mobile Application Development. A talented individual with strong communication skills, team spirit, and Bachelors in Software Engineering. Bringing expertise in writing full-stack applications to support multiple platforms, including web, android, and iOS, and a solid grasp of data structures and object-oriented designs.
+I've been writing code since 2016, I have 6+ years of experience in development. I have 4+ years of experience in Mobile Application Development. A talented individual with strong communication skills, team spirit, and Bachelors in Software Engineering. Bringing expertise in writing full-stack applications to support multiple platforms, including web, android, and iOS, and a solid grasp of data structures and object-oriented designs.
 
 *   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [musamaashraf@gmail.com](mailto:musamaashraf@gmail.com)
 *   🧠  I'm learning AI/ML
-*   🤝  I'm open to collaborating on Flutter, Dart, Firebase
+*   🤝  I'm open to collaborating on Flutter, Dart, Firebase, NodeJS, ReactJS, AstroJS, JavaScript, Python
 
 <a href="https://www.twitter.com/Musamaashraf" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Musamaashraf?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>      <a href="https://www.github.com/musamaashraf" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/musamaashraf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
